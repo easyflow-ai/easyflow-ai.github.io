@@ -1,10 +1,11 @@
 {
-	"version": "1.17.5",
+	"version": "1.19.2",
 	"changelog": [
-		"Added a new node: Knowledge base answer node.",
-		"Fixed Goto node can not choose go-to sub-flow issue.",
-		"Fixed a number of issues",
-		"Optimized the navigation menu",
-		"Upgraded dependencies"
+		"Highlight: Dialog nodes now support using large models to generate responses.",
+		"Highlight: Added more Chinesse translations.",
+		"Optimized for dialog node streaming response.",
+		"Highlight: LlmChatNode now support streaming response.",
+		"Upgraded many dependencies.",
+		"Several improvements."
 	]
 }
