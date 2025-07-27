@@ -1,6 +1,8 @@
 {
-	"version": "1.19.2",
+	"version": "1.19.3",
 	"changelog": [
+		"Added a new JavaScript SDK",
+		"增加更多的翻译",
 		"Highlight: Dialog nodes now support using large models to generate responses.",
 		"Highlight: Added more Chinesse translations.",
 		"Optimized for dialog node streaming response.",
